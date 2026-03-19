@@ -61,7 +61,7 @@ The dashboard provides insights into:
 - Sales and revenue by age group  
 - Customer segmentation filters (gender, category, shipping type)
 
-(Add your dashboard screenshot here)
+![Customer Behavior Dashboard](Customer_analysis_dashboard.png)
 
 ---
 
