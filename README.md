@@ -2,7 +2,7 @@
 
 ## Overview
 This project analyzes customer shopping behavior for a retail company to understand purchasing patterns, customer segments, and factors influencing sales.
-
+This project demonstrates end-to-end analytics workflow using Python, SQL and Power BI.
 The goal is to generate actionable insights that can help improve customer engagement, optimize marketing strategies, and increase overall revenue.
 
 ---
