@@ -62,7 +62,6 @@ The dashboard provides insights into:
 - Customer segmentation filters (gender, category, shipping type)
 
 ![Customer Behavior Dashboard](Customer_analysis_dashboard.png)
-
 ---
 
 ## Key Results & Insights
